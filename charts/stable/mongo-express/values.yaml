@@ -1,7 +1,7 @@
 image:
   repository: docker.io/mongo-express
   pullPolicy: IfNotPresent
-  tag: latest@sha256:daa4a0db75705eed2669049f01f9d358a2187a03c3d580d9121dec2d18298a01
+  tag: latest@sha256:8d562637a965c4a1b80fe4fa7321c850f2b7e0a1fcc5ed865b86fda8c91c67c7
 service:
   main:
     ports:
