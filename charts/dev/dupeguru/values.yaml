@@ -16,7 +16,7 @@ dupeguru:
 image:
   pullPolicy: IfNotPresent
   repository: jlesage/dupeguru
-  tag: v23.11.3@sha256:9b9bba5eb5ef4140c6d44079d75bb7266c00051c712355d545c12622e7d44ee7
+  tag: v24.01.1@sha256:2a2e907f545ce90538be5133b4ce23ba8e3add3bc6f6aa2a00dbd552c256817b
 persistence:
   config:
     enabled: true

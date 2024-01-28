@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: minims/somfyprotect2mqtt
-  tag: 2023.11.1@sha256:19fdf79ee019b22fd5872d61b86d82f75aa418a5bf87da8272337f0dd3af922f
+  tag: 2024.1.0@sha256:c31838539a55c9420927c69eeb693059d358cd852e9dd673c4f31c6a4149b6d9
 persistence:
   configfile:
     defaultMode: "0600"

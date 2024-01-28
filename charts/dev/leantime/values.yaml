@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: leantime/leantime
-  tag: 2.4.8@sha256:00b33338868be7e61590d42b62fe35e889459f992e784cd83d4560b0a8c0c0a9
+  tag: 3.0.3@sha256:f879cba9c7532780a37a212944617c29e0e8c22eac0790b0c0d6ddedb0f52f2c
 mariadb:
   enabled: true
   existingSecret: mariadbcreds

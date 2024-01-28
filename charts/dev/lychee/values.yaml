@@ -1,7 +1,7 @@
 image:
   pullPolicy: IfNotPresent
   repository: lycheeorg/lychee-laravel
-  tag: v4.13.0@sha256:40eebc538f460ace2cb9abc9e8ba1a97615d1cfa4092aff2c3b9677d5494f171
+  tag: v5.1.1@sha256:10f95fd6fe103a68e3a5cc79136a302bb7022125339538a166f058d3cf368f8d
 persistence:
   conf:
     enabled: true
