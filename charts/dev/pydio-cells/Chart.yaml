@@ -29,7 +29,7 @@ home: https://truecharts.org/charts/dev/pydio-cells
 icon: https://truecharts.org/img/hotlink-ok/chart-icons/pydio-cells.png
 keywords:
   - pydio-cells
-kubeVersion: ">=1.24.0-0"
+kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
@@ -39,4 +39,4 @@ sources:
   - https://github.com/truecharts/charts/tree/master/charts/dev/pydio-cells
   - https://hub.docker.com/r/pydio/cells
 type: application
-version: 9.0.15
+version: 9.0.16

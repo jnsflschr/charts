@@ -24,7 +24,7 @@ keywords:
   - artifactory-oss
   - Productivity
   - Tools-Utilities
-kubeVersion: ">=1.24.0-0"
+kubeVersion: '>=1.24.0-0'
 maintainers:
   - name: TrueCharts
     email: info@truecharts.org
@@ -35,4 +35,4 @@ sources:
   - https://registry.hub.docker.com/r/docker.bintray.io/jfrog/artifactory-oss
   - https://github.com/truecharts/charts/tree/master/charts/unstable/artifactory-oss
 type: application
-version: 3.0.13
+version: 3.0.14
